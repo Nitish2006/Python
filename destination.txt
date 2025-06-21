@@ -1,0 +1,6 @@
+This is a new file.
+It contains some text.
+This text is appended to the file.
+Appending more text.
+This is the first line.
+This is the second line.

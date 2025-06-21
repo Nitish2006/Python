@@ -1,0 +1,5 @@
+2025-06-16 18:23:50,419- my_logger -DEBUG -this is a debug
+2025-06-16 18:23:50,420- my_logger -INFO -this info msg
+2025-06-16 18:23:50,420- my_logger -CRITICAL -this is critical
+2025-06-16 18:23:50,421- my_logger -ERROR -this an error
+2025-06-16 18:23:50,421- my_logger -WARNING -warning log

@@ -1,0 +1,13 @@
+2025 - 06 -16 17:46:55 - Arithmetic App - ERROR - Division by error by zero
+2025-06-16 17:48:53 - Arithmetic App - DEBUG - Adding 10 + 23 = 33
+2025-06-16 17:48:53 - Arithmetic App - DEBUG - Multiplying 22 * 24 = 528
+2025-06-16 17:48:53 - Arithmetic App - ERROR - Division by zero error
+2025-06-17 09:53:25 - Arithmetic App - DEBUG - Adding 10 + 23 = 33
+2025-06-17 09:53:25 - Arithmetic App - DEBUG - Multiplying 22 * 24 = 528
+2025-06-17 09:53:25 - Arithmetic App - ERROR - Division by zero error
+2025-06-17 09:53:54 - Arithmetic App - DEBUG - Adding 10 + 23 = 33
+2025-06-17 09:53:54 - Arithmetic App - DEBUG - Multiplying 22 * 24 = 528
+2025-06-17 09:53:54 - Arithmetic App - ERROR - Division by zero error
+2025-06-17 09:53:55 - Arithmetic App - DEBUG - Adding 10 + 23 = 33
+2025-06-17 09:53:55 - Arithmetic App - DEBUG - Multiplying 22 * 24 = 528
+2025-06-17 09:53:55 - Arithmetic App - ERROR - Division by zero error
